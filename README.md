@@ -2,7 +2,7 @@
 
 This repository contains an interactive Tableau dashboard designed to visualize and monitor project performance across different locations, project types, and managers.
 
-To play around with the viz, feel free to visit the online link to the live dashboard:
+To **play around with the viz**, feel free to visit the online link to the live dashboard:
 
 https://public.tableau.com/views/ProjectManagement_17507701114470/MainPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
