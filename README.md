@@ -7,7 +7,7 @@ To play around with the viz, feel free to visit the online link to the live dash
 https://public.tableau.com/views/ProjectManagement_17507701114470/MainPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Repository Structure
-
+<pre lang="markdown"> <code>
 Project_Management_Dashboard/
 │
 ├── data/ # Star schema source data (CSV files)
@@ -34,10 +34,10 @@ Project_Management_Dashboard/
 │
 └── README.md # Project description and documentation
 
-
+ </code> </pre>
 ---
 
-## 🔍 Dashboard Features
+## Dashboard Features
 
 - **Summary Metrics**: Total Projects, Total Budget, Total Expenses, Average CPI
 - **Project Map**: Visual distribution of projects by location
