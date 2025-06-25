@@ -75,6 +75,8 @@ Refer to the ERD in `data model/` for schema details.
 ## Preview
 
 ![Main Dashboard](tableau/Main_Page_Example.png)
+
+
 ![Project Details](tableau/Project_Details_Example.png)
 
 ---
@@ -82,6 +84,8 @@ Refer to the ERD in `data model/` for schema details.
 ## Author
 
 **Designed by Yuan Yuan**  [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](www.linkedin.com/in/yuan-yuan-1728b32ba)
+
+
 Tableau Portfolio for more vizzes! https://public.tableau.com/app/profile/yuan.yuan6421/vizzes
 
 
