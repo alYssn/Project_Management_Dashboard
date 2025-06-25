@@ -22,15 +22,15 @@ Project_Management_Dashboard/
 │ └── Project_ERD.png
 │
 ├── tableau/ # Tableau workbook files
-│ └── ProjectDashboard.twbx
+│ ├── Main_Page_Example.png
+│ ├── Project_Details_Example.png
+│ ├── Preferences.tps / # Custom color pallete, must be saved under your local \My Tableau Repository to create a white slice in a double pie chart.
+│ └── Project Management Dashboard.twbx
 │
 ├── icons and buttons/ # Custom icons (e.g. home/export) and visual assets
-│ ├── home_icon.png
-│ └── export_button.png
-│
-├── screenshots/ # Sample images of dashboards
-│ ├── main_dashboard_view.png
-│ └── project_detail_view.png
+│ ├── home.png
+│ ├── linkedin.png
+│ └── listicon.png
 │
 └── README.md # Project description and documentation
 
