@@ -18,7 +18,8 @@ Project_Management_Dashboard/
 │ ├── DimType.csv
 │ └── DimHealthStatus.csv
 │
-├── data model/ # ERD diagram and schema reference
+├── data model/ # Data model in Postgres & ERD diagram and schema reference
+│ ├── star_project_schema.csv
 │ └── Project_ERD.png
 │
 ├── tableau/ # Tableau workbook files
