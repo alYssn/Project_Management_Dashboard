@@ -70,6 +70,7 @@ Refer to the ERD in `data model/` for schema details.
 - GitHub (Version Control & Hosting)
 - Excel (Data Processing)
 - Python (Sample Data Generation)
+- Postgres (Data Storage)
 
 ---
 
