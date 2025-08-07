@@ -1,5 +1,5 @@
 -- ========================================
--- Industrial-Level Star Schema Script
+-- Star Schema
 -- ========================================
 
 -- Use transaction block
@@ -112,5 +112,6 @@ INSERT INTO FactProjects (ProjectID, "Project Name", Created, Budget, Expense, M
 COMMIT;
 
 -- ============================
--- Script End
+-- End
 -- ============================
+
